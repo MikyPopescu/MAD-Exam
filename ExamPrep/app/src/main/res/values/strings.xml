@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExamPrep2</string>
+    <string-array name="adauga_valori">
+        <item>Inter</item>
+        <item>Centru</item>
+        <item>Portar</item>
+    </string-array>
+</resources>

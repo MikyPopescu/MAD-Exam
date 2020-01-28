@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SubiectCitat2020</string>
+    <string-array name="adauga_valori">
+        <item>Familie</item>
+        <item>Sport</item>
+        <item>Filozofie</item>
+        <item>Motivationale</item>
+    </string-array>
+</resources>
